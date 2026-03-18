@@ -1,6 +1,14 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-streamlit
-altair
+# 核心数据处理
+pandas==2.0.3
+numpy==1.24.3
+# 机器学习
+scikit-learn==1.3.0
+scipy==1.10.1
+# 可视化
+matplotlib==3.7.2
+altair==5.1.1
+# Web应用
+streamlit==1.28.2
+# 其他（防止遗漏）
+pillow==10.0.1
+plotly==5.17.0
